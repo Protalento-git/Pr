@@ -1,1 +1,1 @@
-print ('proyecto ')
+print ('pro')
